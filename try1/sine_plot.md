@@ -3,6 +3,6 @@ Below plot shows the sin function. The sin is the trigonomatric function whose v
 
 
     
-![png](output_1_0.png)
+![png](https://github.com/ddrathod121294/blogging01/blob/base/try1/images/output_1_0.png?raw=true)
     
 
