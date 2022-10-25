@@ -1,0 +1,19 @@
+# general things to ignore
+build/
+dist/
+PIV_data/
+cli_codes.txt
+*.ipynb
+*.ipynb_checkpoints
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+try1/
+
+
+# due to using tox and pytest
+.tox
+.cache
