@@ -11,7 +11,10 @@ cli_codes.txt
 __pycache__/
 *.so
 *~
-try1/
+
+# files in try1 folder
+try1/try1.ipynb
+try1/.ipynb_checkpoints
 
 
 # due to using tox and pytest
