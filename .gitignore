@@ -1,22 +1,10 @@
 # general things to ignore
-build/
-dist/
-PIV_data/
-cli_codes.txt
-*.ipynb
-*.ipynb_checkpoints
-*.egg-info/
-*.egg
-*.py[cod]
-__pycache__/
-*.so
-*~
+.ipynb_checkpoints
+convertor_and_uploader.ipynb
 
 # files in try1 folder
 try1/try1.ipynb
 try1/.ipynb_checkpoints
 
-
-# due to using tox and pytest
-.tox
-.cache
+# files in *ipython_blogs* folder
+ipython_blogs/.ipynb_checkpoints
